@@ -148,3 +148,10 @@ All names, places, offices, and rules in the prompts are **fictional**, and each
 ## Disclaimer
 
 The rules and facts in each problem apply only to that fictional problem. They are not the current policies of any real institution.
+
+## License
+
+The BanglaPlan benchmark data is released under the
+[Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
+You may share and adapt the data for any purpose, provided you give appropriate credit
+by citing the paper.
