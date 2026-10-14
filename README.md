@@ -1,8 +1,8 @@
-# BanglaPlan
+# BANGLAPLAN
 
 **A Benchmark for Constraint-Based Planning and Decision-Making in Bangla**
 
-BanglaPlan contains **1,000 planning and decision-making problems written directly in Bangla** and grounded in everyday life in Bangladesh. Each problem asks a model to build a plan (a schedule, route, allocation, ranking, and so on) that satisfies explicit constraints on time, cost, capacity, and order, or to recognize that **no feasible plan exists**.
+BANGLAPLAN contains **1,000 planning and decision-making problems written directly in Bangla** and grounded in everyday life in Bangladesh. Each problem asks a model to build a plan (a schedule, route, allocation, ranking, and so on) that satisfies explicit constraints on time, cost, capacity, and order, or to recognize that **no feasible plan exists**.
 
 Every problem has a single canonical gold answer in a shared JSON format, so it can be scored by deterministic exact match without an LLM judge.
 
