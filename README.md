@@ -25,7 +25,7 @@ Every problem has a single canonical gold answer in a shared JSON format, so it 
 ## Repository structure
 
 ```
-benchmark-data/
+data/
 ├── part-1/
 │   ├── F01.json
 │   ├── F02.json
@@ -155,3 +155,20 @@ The BanglaPlan benchmark data is released under the
 [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
 You may share and adapt the data for any purpose, provided you give appropriate credit
 by citing the paper.
+
+
+## Citation
+
+If you use BanglaPlan in your work, please cite:
+
+```bibtex
+@misc{masud2026banglaplan,
+  title         = {BANGLAPLAN: A Benchmark for Constraint-Based Planning and Decision-Making in Bangla},
+  author        = {Masud, Md Rayhanul and Alam, S. M. Maksudul and Islam, Mohammad Jaminur},
+  year          = {2026},
+  eprint        = {2610.19704},
+  archivePrefix = {arXiv},
+  primaryClass  = {cs.CL},
+  url           = {https://arxiv.org/abs/2610.19704}
+}
+```
