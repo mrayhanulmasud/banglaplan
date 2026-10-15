@@ -167,8 +167,6 @@ If you use BanglaPlan in your work, please cite:
   author        = {Masud, Md Rayhanul and Alam, S. M. Maksudul and Islam, Mohammad Jaminur},
   year          = {2026},
   eprint        = {2610.19704},
-  archivePrefix = {arXiv},
-  primaryClass  = {cs.CL},
   url           = {https://arxiv.org/abs/2610.19704}
 }
 ```
